@@ -352,7 +352,7 @@ function Naganadel(){
   this.type = "poison";    
 }
 function Darmanitan(){
-  this.species = "Aurorus";  this.name = this.species;
+  this.species = "Darmanitan";  this.name = this.species;
   this.maxHP = 85; this.maxAtk = 90; this.maxDef = 50; this.maxSpAtk = 75; this.maxSpDef = 45; this.maxSpeed = 90;
   this.HP = 85; this.atk = 90; this.def = 50; this.spAtk = 75; this.spDef = 45; this.speed = 90;
   this.moves = [iceBeam, flameThrower, ironHead, dig]; 
